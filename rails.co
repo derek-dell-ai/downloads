@@ -1,0 +1,29 @@
+define user express greeting
+  "Hello"
+  "Hi"
+  "Wassup?"
+
+define flow greeting
+  user express greeting
+  bot express greeting
+  bot ask how are you
+
+define bot express greeting
+  "Hello World!"
+
+define bot ask how are you
+  "How are you doing?"
+
+define flow self_check_input
+  $allowed = execute self_check_input
+
+  if not $allowed
+    bot refuse to respond
+    stop
+
+define flow self_check_output
+  $allowed = execute self_check_output
+
+  if not $allowed
+    bot refuse to respond
+    stop
