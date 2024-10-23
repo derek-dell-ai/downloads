@@ -1,0 +1,21 @@
+EN-US	JA-JP
+This attribute specifies an informational message.	この属性は、情報メッセージを指定します。
+Finally, as we continue to progress through our workforce transformation journey, you have told us that it’s good to hear from our very own team members on their transformational journey and experience.	最後になりますが、ワークフォース トランスフォーメーションの取り組みを継続して進めるうえで、トランスフォーメーション プロセスと経験について、自分たちのチーム メンバーから話を聞くのは良いことです。これは、私たちが皆様から教わったことでした。
+When you click anywhere in the Storage Latency graph, the property list that is displayed at the top of the page is also updated.	ストレージ レイテンシー グラフの任意の場所をクリックすると、ページの上部に表示されるプロパティ リストもアップデートされます。
+It is recommended to remove the stand to avoid accidental damage to the computer display during servicing.	修理中はコンピューター ディスプレイへの偶発的な破損を防ぐため、スタンドを取り外しておくことをお勧めします。
+This digital transformation is driving the way our customers are looking at their businesses as they are changing their operation models.	このデジタル トランスフォーメーションは、運用モデルの変更に伴い、お客様のビジネスのあり方を大きく変えています。
+We need to understand the business problem statements.	ビジネス上の問題点の説明を理解する必要があります。
+Displays the video controller information.	ビデオ コントローラー情報を表示します。
+The Email Setup page of the Support window enables you to configure SMTP email server settings that control sending and receiving email related to resetting local user passwords and customizing alert notifications.	のSupportウィンドウのEmail Setupページでは、ローカル ユーザー パスワードのリセットとアラート通知のカスタマイズに関連するEメールの送受信を制御するSMTP Eメール サーバー設定を構成できます。
+The storage sled, if assigned to compute sleds that are powered on, causes I/O disruption.	ストレージ スレッドが、電源が入っているコンピュートスレッドに割り当てられる場合、入出力の中断を引き起こします。
+To reduce the impact of our business on people and the planet, Dell Technologies implement circular design principles to make our products easy to repair, reuse, and recycle.	デル・テクノロジーズは、ビジネスが人々や地球環境に与える影響を低減するため、製品の修理、再利用、リサイクルが簡単になるよう、サーキュラー デザインの原則を導入しています。
+You get support for Gold-6, Gold-5, Silver, up to 220 watts across them.	それぞれ最大220ワットまでGold-6、Gold-5、Silverをサポートしています
+Let’s start by diving below the OS and assessing our “tools” built into our Dell commercial devices by setting up the scene of an eminent cybercrime.	まずは、OSの下を詳しく掘り下げて、顕著なサイバー犯罪のシナリオを設定し、Dellビジネス向けデバイスに組み込まれているツールを評価しましょう。
+Determines whether remote hosts are allowed to direct recoveries to this host.	リモート ホストがこのホストへの直接リカバリーを許可されるかどうかを決定します。
+On Dell mobile thin clients, the Service Tag label is located on the back cover.	Dellモバイル シン クライアントでは、サービス タグ ラベルは背面カバーに貼付されています。
+The Cloud Administrator receives an Activate Account email and enters the console (see photo below).	クラウド管理者は、アカウントのアクティブ化Eメールを受信し、コンソールにアクセスします（下の画像を参照）。
+When the column width is wide enough, the long column heading is displayed; otherwise, the short heading is displayed.	十分な列幅がある場合は長い列見出しが表示され、列幅が十分ではない場合は短い列見出しが表示されます。
+Adhere the tape to securing the eDP cable to the display back cover.	eDPケーブルをディスプレイ背面カバーに固定するテープを貼り付けます。
+Not every application has a management option.	すべてのアプリケーションに管理オプションがあるわけではありません。
+Higher wattage options will be available with 14G and above.	14G以降では、より高いワット数オプションが利用可能になります。
+On Linux, logical devices can be dynamically added and removed.	Linuxでは、論理デバイスを動的に追加し、削除できます。
